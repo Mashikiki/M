@@ -1,4 +1,4 @@
 # M
-Hi Humans!
+Hello!
 Mashikiki here, i like Html,Css,JavaScript,atc.
- Aand i hope to engage in front-end Wed development after graduation
+ And i hope to engage in front-end Wed development after graduation
